@@ -29,9 +29,9 @@ target_sources(${PROJECT_NAME} PRIVATE ${INDUSTRIAL_SOURCES})
 ```
 
 ### Screenshots
-![alt tag](https://github.com/DigitalAero/industrial-controls/blob/master/screenshots/buttons.png)
-![alt tag](https://github.com/DigitalAero/industrial-controls/blob/master/screenshots/edits.png)
-![alt tag](https://github.com/DigitalAero/industrial-controls/blob/master/screenshots/inputs.png)
-![alt tag](https://github.com/DigitalAero/industrial-controls/blob/master/screenshots/misc.png)
+![alt tag](https://github.com/pragmaticQt/IndustrialControls/blob/master/screenshots/buttons.png)
+![alt tag](https://github.com/pragmaticQt/IndustrialControls/blob/master/screenshots/edits.png)
+![alt tag](https://github.com/pragmaticQt/IndustrialControls/blob/master/screenshots/inputs.png)
+![alt tag](https://github.com/pragmaticQt/IndustrialControls/blob/master/screenshots/misc.png)
 
 
