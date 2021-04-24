@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Buttons.qml</file>
+        <file>qml/Configuration.qml</file>
+        <file>qml/Controls.qml</file>
+        <file>qml/Edits.qml</file>
+        <file>qml/Inputs.qml</file>
+        <file>qml/Main.qml</file>
+        <file>qml/Menus.qml</file>
+        <file>qml/Misc.qml</file>
+        <file>qml/Test.qml</file>
+    </qresource>
+</RCC>
